@@ -21,7 +21,7 @@ Brazilian E-Commerce Public Dataset by Olist — Kaggle (https://www.kaggle.com/
 ## Key Insights
 
 - Revenue grew steadily from late 2016 through 2018, with a sharp spike in November 2017 (likely Black Friday), followed by a plateau around R$0.8-1.0M/month.
-![Monthly revenue trend](Screenshot 2026-08-12 000245.png)
+![Monthly revenue trend](dashboard_full.png)
 
 - 97% of all orders reach "delivered" status successfully — a strong signal of overall marketplace reliability.
 
@@ -32,7 +32,7 @@ Brazilian E-Commerce Public Dataset by Olist — Kaggle (https://www.kaggle.com/
 - Health & Beauty leads total revenue (R$1.23M), but Watches & Gifts is notable for generating nearly as much revenue (R$1.17M) from far fewer orders — indicating a much higher average order value, likely a gifting/luxury category.
 
 - The dashboard includes a state-level filter — selecting any Brazilian state instantly updates every chart and KPI to reflect that region's performance.
-![Dashboard filtered by state]("Screenshot 2026-08-12 000324.png")
+![Dashboard filtered by state](dashboard_filtered.png)
 
 ## Tools
 Python (pandas), SQL (SQLite, multi-table joins), Power BI Desktop — in Google Colab
