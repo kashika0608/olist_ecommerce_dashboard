@@ -21,7 +21,7 @@ Brazilian E-Commerce Public Dataset by Olist — Kaggle (https://www.kaggle.com/
 ## Key Insights
 
 - Revenue grew steadily from late 2016 through 2018, with a sharp spike in November 2017 (likely Black Friday), followed by a plateau around R$0.8-1.0M/month.
-![Monthly revenue trend]("[Screenshot 2026-08-12 000245.png](https://github.com/kashika0608/olist_ecommerce_dashboard/blob/main/Screenshot%202026-08-12%20000245.png)")
+![Monthly revenue trend](Screenshot 2026-08-12 000245.png)
 
 - 97% of all orders reach "delivered" status successfully — a strong signal of overall marketplace reliability.
 
