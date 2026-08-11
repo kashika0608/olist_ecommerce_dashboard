@@ -34,6 +34,7 @@ Brazilian E-Commerce Public Dataset by Olist — Kaggle (https://www.kaggle.com/
 - The dashboard includes a state-level filter — selecting any Brazilian state instantly updates every chart and KPI to reflect that region's performance.
 ![Dashboard filtered by state](dashboard_filtered.png)
 
+## PowerBi dashboard Link: https://summerfieldsco-my.sharepoint.com/:u:/g/personal/1122000569_sfsaryabhatta_com/IQC8eK3ocLyES5hjicXjjlW3ATRFDp_2m961HPlmvcObG3U?e=pMMdK1
 ## Tools
 Python (pandas), SQL (SQLite, multi-table joins), Power BI Desktop — in Google Colab
 
